@@ -1,1 +1,0 @@
-# lec25_heroku
